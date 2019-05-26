@@ -30,13 +30,16 @@ pip install tox
 ```
 
 ## Running tennis score application
-
-`tox -e tennis`
+```
+tox -e tennis
+```
 
 ## Running unit tests
+```
+tox
+```
 
-`tox`
-
+## Example output:
 ```
 The interface should look something like this in Java:
 
