@@ -1,0 +1,5 @@
+labeled-enum
+pytest
+mock
+isort
+flake8
