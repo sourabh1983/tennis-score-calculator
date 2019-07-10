@@ -70,10 +70,10 @@ The interface should look something like this in Java:
 ```
 
 ## Constraints
-* don't build guis etc
-* don't worry about making a command line interface to the application
-* Only worry about 1 set
-* Don't worry about validation, assume the client passes in correct data
+* No guis etc
+* No command line interface to the application
+* Only 1 set
+* No validation, assume the client passes in correct data
 
 ## Running the tests
 
